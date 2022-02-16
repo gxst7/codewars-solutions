@@ -1,0 +1,27 @@
+2022.02.16 13:37:33 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/.metals/lsp.trace.json or /home/alexander-gostilo/.cache/metals/lsp.trace.json
+2022.02.16 13:37:33 INFO  logging to file /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/.metals/metals.log
+2022.02.16 13:37:33 INFO  Started: Metals version 0.11.1 in workspace '/home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala' for client Visual Studio Code 1.64.2.
+2022.02.16 13:37:33 INFO  Parse release: 11.0.11
+2022.02.16 13:37:40 INFO  time: initialize in 6.92s
+2022.02.16 13:37:41 WARN  Build server is not auto-connectable.
+2022.02.16 13:37:41 WARN  no build tool detected in workspace '/home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.02.16 13:37:42 WARN  no build target for: /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Multiplication.scala
+2022.02.16 13:38:06 INFO  no build target found for /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Multiplication.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.02.16 13:38:07 INFO  time: code lens generation in 25s
+Feb 16, 2022 1:50:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 327
+2022.02.16 13:53:56 INFO  shutting down Metals
+2022.02.16 13:54:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/.metals/lsp.trace.json or /home/alexander-gostilo/.cache/metals/lsp.trace.json
+2022.02.16 13:54:23 INFO  logging to file /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/.metals/metals.log
+2022.02.16 13:54:23 INFO  Started: Metals version 0.11.1 in workspace '/home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala' for client Visual Studio Code 1.64.2.
+2022.02.16 13:54:23 INFO  Parse release: 11.0.11
+2022.02.16 13:54:29 INFO  time: initialize in 6.62s
+2022.02.16 13:54:30 WARN  Build server is not auto-connectable.
+2022.02.16 13:54:30 WARN  no build tool detected in workspace '/home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.02.16 13:54:31 WARN  no build target for: /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Multiplication.scala
+2022.02.16 13:54:40 INFO  no build target found for /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Multiplication.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.02.16 13:54:43 INFO  time: code lens generation in 11s
+2022.02.16 13:56:14 WARN  no build target for: /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Hello.scala
+2022.02.16 13:56:19 WARN  no build target for: /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Hello.scala
+2022.02.16 14:06:15 WARN  no build target for: /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Operation.scala
+2022.02.16 14:07:17 WARN  no build target for: /home/alexander-gostilo/VSCodeWorkspace/codewars-solutions/scala/Operation.scala

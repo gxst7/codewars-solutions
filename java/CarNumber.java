@@ -1,6 +1,6 @@
 public class CarNumber {
     public static void main(String...strings) {
-        String fin = "DDD-LL";
+        // String fin = "DDD-LL";
         int count = 0;
 
         for (int i = 0; i < 2; i++) {

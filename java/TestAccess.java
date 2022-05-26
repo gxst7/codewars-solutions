@@ -5,7 +5,7 @@ public class TestAccess {
         int iLocal = 73;
 
         {
-            float fLocal = 47.0f;
+            // float fLocal = 47.0f;
         }
 
         System.out.println(iLocal);
